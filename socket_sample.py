@@ -1,7 +1,7 @@
 import socket
 # create a socket:
 #s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s = socket.socket(socket.)
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # set up connection:
 # s.connect(('www.sina.com.cn', 80))
