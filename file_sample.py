@@ -1,4 +1,6 @@
 file = open('hello.txt', 'w')
-file.write("Hello World!")
+file.write('hello world!')
 file.close()
+
+file.
 
